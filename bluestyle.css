@@ -1,7 +1,19 @@
 body {
-background-color: lightbrown;
+background-color: lightblue;
 }
 h1 {
 color: darkblak;
 margin-left: 60px;
+}
+h2 {
+color: darkblak;
+margin-left: 40px;
+}
+h3 {
+color: darkblak;
+margin-left: 40px;
+}
+h4 {
+color: darkblak;
+margin-left: 40px;
 }
