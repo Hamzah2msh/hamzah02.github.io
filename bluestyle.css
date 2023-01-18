@@ -1,19 +1,19 @@
 body {
 background-color: AntiqueWhite;
 }
-h1 {
+h {
+color: Brown;
+margin-left: 60px;
+}
+p {
 color: Brown;
 margin-left: 60px;
 }
 h2 {
 color: Brown;
-margin-left: 40px;
+margin-left: 60px;
 }
-h3 {
-color: Brown;
-margin-left: 40px;
-}
-h4 {
-color: Brown;
-margin-left: 40px;
+hr{
+color :Browon;
+margin-center: 80px;
 }
